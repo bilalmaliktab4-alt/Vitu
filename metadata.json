@@ -1,0 +1,7 @@
+{
+  "name": "AI Wallpaper Maker",
+  "description": "Generate futuristic liquid glass wallpapers with AI prompts, 9 art styles, and aspect ratio controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
